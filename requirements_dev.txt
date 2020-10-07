@@ -14,5 +14,5 @@ flask==1.1.2
 requests==2.23.0
 setuptools==46.1.3
 black==19.10b0
-bump2version==1.0.0
+bump2version==1.0.1
 travis-encrypt==1.4.0
