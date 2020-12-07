@@ -12,7 +12,7 @@ click==7.0
 restructuredtext-lint==1.3.0
 collective.checkdocs==0.2
 coveralls==1.7.0
-pipupgrade==1.5.0
+pipupgrade==1.7.4
 cmarkgfm==0.4.2
 mock==3.0.5
 mocket==2.7.3
