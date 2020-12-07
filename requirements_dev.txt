@@ -15,4 +15,4 @@ coveralls==1.7.0
 pipupgrade==1.5.0
 cmarkgfm==0.4.2
 mock==3.0.5
-mocket==2.7.3
+mocket==3.9.4
