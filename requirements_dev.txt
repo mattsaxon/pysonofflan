@@ -9,7 +9,7 @@ Sphinx==2.0.1
 pytest==4.5.0
 twine==1.13.0
 click==7.0
-restructuredtext-lint==1.3.0
+restructuredtext-lint==1.3.2
 collective.checkdocs==0.2
 coveralls==1.7.0
 pipupgrade==1.5.0
